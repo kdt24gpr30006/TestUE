@@ -1,0 +1,10 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/ProjectStudy/DerivedDataCache/
+/ProjectStudy/Intermediate/
+/ProjectStudy/Saved/
+/ProjectStudy/Build/
+
+.vs/
